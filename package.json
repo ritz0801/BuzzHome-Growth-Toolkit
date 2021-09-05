@@ -1,0 +1,13 @@
+{
+  "name": "growth-toolkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KieIO/growth-toolkit.git",
+  "author": "Dũng Võ <vodung0801@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^91.0.0",
+    "fb": "^2.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
